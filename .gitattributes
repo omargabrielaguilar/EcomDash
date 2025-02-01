@@ -5,6 +5,8 @@
 *.html diff=html
 *.md diff=markdown
 *.php diff=php
+*.vue linguist-vendored
+
 
 /.github export-ignore
 CHANGELOG.md export-ignore
